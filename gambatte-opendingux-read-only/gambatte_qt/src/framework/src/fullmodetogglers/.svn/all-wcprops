@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers
+END
+quartztoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/quartztoggler.h
+END
+xrandrtoggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xrandrtoggler.cpp
+END
+nulltoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/nulltoggler.h
+END
+xrandr12toggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xrandr12toggler.cpp
+END
+xf86vidmodetoggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xf86vidmodetoggler.cpp
+END
+gditoggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/gditoggler.cpp
+END
+xrandrtoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xrandrtoggler.h
+END
+quartztoggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/quartztoggler.cpp
+END
+xrandr12toggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xrandr12toggler.h
+END
+xf86vidmodetoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/xf86vidmodetoggler.h
+END
+gditoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetogglers/gditoggler.h
+END

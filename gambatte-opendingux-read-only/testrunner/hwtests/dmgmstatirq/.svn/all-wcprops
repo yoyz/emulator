@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq
+END
+m0statwirq_trigger_ly44_lyc44_00_08_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ly44_lyc44_00_08_dmg08_cgb_outE2.asm
+END
+m0statwirq_trigger_ly44_lyc44_40_08_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ly44_lyc44_40_08_dmg08_cgb_outE0.asm
+END
+m0statwirq_trigger_08_08_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_08_08_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_ly44_lyc44_40_48_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ly44_lyc44_40_48_dmg08_cgb_outE0.asm
+END
+m0statwirq_scx2_1_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx2_1_dmg08_out0.asm
+END
+m0statwirq_trigger_00_08_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_00_08_dmg08_out2_cgb_out2.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_ds_2_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_ds_2_outE2.asm
+END
+lycstatwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+END
+m0statwirq_trigger_f7_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_f7_ff_dmg08_out2_cgb_out2.asm
+END
+m0statwirq_3_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_3_dmg08_out0.asm
+END
+m0statwirq_scx3_2_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx3_2_dmg08_out2.asm
+END
+m2statwirq_trigger_ff_df_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_ff_df_dmg08_cgb_out0.asm
+END
+m1statwirq_4_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_4_dmg08_out0.asm
+END
+m1statwirq_trigger_ef_10_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ef_10_dmg08_out2_cgb_out2.asm
+END
+m2statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_00_40_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_00_40_dmg08_out2_cgb_out2.asm
+END
+lycflag_statwirq_3_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycflag_statwirq_3_dmg08_out2.asm
+END
+m1statwirq_trigger_ef_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ef_ff_dmg08_out2_cgb_out2.asm
+END
+lycstatwirq_trigger_ly94_10_50_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly94_10_50_dmg08_cgb_outE0.asm
+END
+lycstatwirq_trigger_ly94_00_50_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly94_00_50_dmg08_cgb_outE2.asm
+END
+m0statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_df_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_df_00_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_10_ef_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_10_ef_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_df_20_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_df_20_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_10_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_10_ff_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_20_df_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_20_df_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_40_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_40_00_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_20_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_20_ff_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_40_40_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_40_40_dmg08_cgb_out0.asm
+END
+m0statwirq_scx3_1_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx3_1_dmg08_out0.asm
+END
+m0statwirq_trigger_08_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_08_ff_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_ff_08_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ff_08_dmg08_cgb_out0.asm
+END
+m0statwirq_2_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_2_dmg08_out0.asm
+END
+m0statwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+END
+lycstatwirq_trigger_ly00_10_50_ds_2_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly00_10_50_ds_2_outE2.asm
+END
+m1statwirq_3_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_3_dmg08_out2.asm
+END
+lycflag_statwirq_2_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycflag_statwirq_2_dmg08_out2.asm
+END
+lycstatwirq_trigger_bf_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_bf_00_dmg08_out2_cgb_out0.asm
+END
+lycstatwirq_trigger_00_bf_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_00_bf_dmg08_out2_cgb_out0.asm
+END
+lycstatwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+END
+lycstatwirq_trigger_bf_40_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_bf_40_dmg08_out2_cgb_out2.asm
+END
+m2statwirq_trigger_00_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_00_00_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_00_20_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_00_20_dmg08_cgb_out0.asm
+END
+m2disable_dmg08_cgb_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2disable_dmg08_cgb_dmg08_out0.asm
+END
+m1statwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+END
+m1statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_ly94_lyc94_00_10_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_00_10_dmg08_cgb_outE2.asm
+END
+m1statwirq_trigger_ff_10_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ff_10_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_ds_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_ds_1_outE0.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_10_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_10_dmg08_cgb_outE0.asm
+END
+m1statwirq_trigger_ly94_lyc94_00_50_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_00_50_dmg08_cgb_outE2.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_2_dmg08_outE0_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_2_dmg08_outE0_cgb_outE2.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_dmg08_cgb_outE0.asm
+END
+m1statwirq_trigger_00_ef_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_00_ef_dmg08_out2_cgb_out0.asm
+END
+m2statwirq_trigger_df_df_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_df_df_dmg08_cgb_out0.asm
+END
+m0statwirq_1_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_1_dmg08_out2.asm
+END
+lycstatwirq_trigger_40_bf_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_40_bf_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_ff_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ff_00_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_df_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_df_ff_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+END
+m1statwirq_2_dmg08_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_2_dmg08_out3.asm
+END
+m0statwirq_scx5_2_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx5_2_dmg08_out2.asm
+END
+lycflag_statwirq_1_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycflag_statwirq_1_dmg08_out2.asm
+END
+lycstatwirq_trigger_40_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_40_ff_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_ff_40_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ff_40_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_f7_f7_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_f7_f7_dmg08_out2_cgb_out0.asm
+END
+lycstatwirq_trigger_bf_bf_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_bf_bf_dmg08_out2_cgb_out0.asm
+END
+m0statwirq_trigger_08_f7_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_08_f7_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_f7_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_f7_00_dmg08_out2_cgb_out0.asm
+END
+lycstatwirq_trigger_bf_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_bf_ff_dmg08_out2_cgb_out2.asm
+END
+lycstatwirq_trigger_ly00_10_50_1_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly00_10_50_1_dmg08_cgb_outE0.asm
+END
+m2statwirq_trigger_00_df_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_00_df_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_ly00_10_50_2_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly00_10_50_2_dmg08_cgb_outE2.asm
+END
+m1statwirq_trigger_00_10_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_00_10_dmg08_out2_cgb_out2.asm
+END
+m2statwirq_trigger_00_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_00_ff_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_ff_00_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_ff_20_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_ff_20_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_f7_08_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_f7_08_dmg08_out2_cgb_out2.asm
+END
+m1statwirq_trigger_ef_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ef_00_dmg08_out2_cgb_out0.asm
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/.directory
+END
+m0statwirq_scx2_2_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx2_2_dmg08_out2.asm
+END
+m0statwirq_scx5_1_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_scx5_1_dmg08_out0.asm
+END
+lycstatwirq_trigger_ly00_10_50_ds_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly00_10_50_ds_1_outE0.asm
+END
+m1statwirq_1_dmg08_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_1_dmg08_out3.asm
+END
+m1statwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_00_ff_dmg08_out2_cgb_out2.asm
+END
+m1statwirq_trigger_ff_ef_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ff_ef_dmg08_cgb_out0.asm
+END
+m0statwirq_4_dmg08_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_4_dmg08_out2.asm
+END
+m1statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+END
+lycflag_statwirq_4_dmg08_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycflag_statwirq_4_dmg08_out0.asm
+END
+lycstatwirq_trigger_ff_bf_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ff_bf_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_ef_ef_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ef_ef_dmg08_out2_cgb_out0.asm
+END
+m1statwirq_trigger_10_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_10_00_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_10_10_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_10_10_dmg08_cgb_out0.asm
+END
+lycstatwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ff_ff_dmg08_cgb_out0.asm
+END
+m2statwirq_trigger_20_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_20_00_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_1_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_1_dmg08_cgb_outE0.asm
+END
+lycstatwirq_trigger_ly94_10_40_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/lycstatwirq_trigger_ly94_10_40_dmg08_cgb_outE0.asm
+END
+m2statwirq_trigger_20_20_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m2statwirq_trigger_20_20_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_00_f7_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_00_f7_dmg08_out2_cgb_out0.asm
+END
+m0statwirq_trigger_08_00_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_08_00_dmg08_cgb_out0.asm
+END
+m1statwirq_trigger_ly94_lyc94_40_50_3_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m1statwirq_trigger_ly94_lyc94_40_50_3_dmg08_cgb_outE2.asm
+END
+m0statwirq_trigger_ff_f7_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_ff_f7_dmg08_cgb_out0.asm
+END
+m0statwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dmgmstatirq/m0statwirq_trigger_00_00_dmg08_out2_cgb_out0.asm
+END

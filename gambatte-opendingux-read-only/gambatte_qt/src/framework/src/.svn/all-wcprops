@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src
+END
+syncvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/syncvar.h
+END
+atomicvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/atomicvar.h
+END
+audioengineconf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengineconf.cpp
+END
+dwmcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/dwmcontrol.h
+END
+getfullmodetoggler_unix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/getfullmodetoggler_unix.cpp
+END
+getfullmodetoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/getfullmodetoggler.h
+END
+addaudioengines_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines_linux.cpp
+END
+videobufferlocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/videobufferlocker.h
+END
+addaudioengines_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines_win32.cpp
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/swscale.h
+END
+addblitterwidgets_unix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addblitterwidgets_unix.cpp
+END
+x11getprocaddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/x11getprocaddress.h
+END
+blitterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidget.cpp
+END
+mediaworker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mediaworker.cpp
+END
+addblitterwidgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addblitterwidgets.h
+END
+samplebuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/samplebuffer.cpp
+END
+blitterconf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterconf.cpp
+END
+mmpriority.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mmpriority.cpp
+END
+frameratecontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/frameratecontrol.h
+END
+getfullmodetoggler_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/getfullmodetoggler_win32.cpp
+END
+blittercontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blittercontainer.h
+END
+inputbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/inputbox.h
+END
+joysticklock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/joysticklock.h
+END
+addaudioengines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines.cpp
+END
+addblitterwidgets_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addblitterwidgets_win32.cpp
+END
+mediawidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mediawidget.h
+END
+dwmcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/dwmcontrol.cpp
+END
+gdisettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/gdisettings.h
+END
+addaudioengines_macx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines_macx.cpp
+END
+getfullmodetoggler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/getfullmodetoggler.cpp
+END
+audioengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengine.h
+END
+fullmodetoggler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/fullmodetoggler.h
+END
+persistcheckbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/persistcheckbox.cpp
+END
+x11getprocaddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/x11getprocaddress.cpp
+END
+getfullmodetoggler_macx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/getfullmodetoggler_macx.cpp
+END
+addblitterwidgets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addblitterwidgets.cpp
+END
+frameratecontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/frameratecontrol.cpp
+END
+inputbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/inputbox.cpp
+END
+joysticklock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/joysticklock.cpp
+END
+sounddialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/sounddialog.cpp
+END
+blittercontainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blittercontainer.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mainwindow.cpp
+END
+blitterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidget.h
+END
+mediaworker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mediaworker.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/rational.h
+END
+inputdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/inputdialog.cpp
+END
+mmpriority.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mmpriority.h
+END
+samplebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/samplebuffer.h
+END
+mediawidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/mediawidget.cpp
+END
+gdisettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/gdisettings.cpp
+END
+videodialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/videodialog.cpp
+END
+addaudioengines_unix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines_unix.cpp
+END
+addaudioengines.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/addaudioengines.h
+END

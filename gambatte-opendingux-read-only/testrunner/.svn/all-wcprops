@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/testrunner
+END
+assemble_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/testrunner/assemble_tests.sh
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/testrunner/SConstruct
+END
+qdgbas.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/testrunner/qdgbas.py
+END
+testrunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/testrunner/testrunner.cpp
+END
+clean_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/testrunner/clean_tests.sh
+END
+run_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/testrunner/run_tests.sh
+END

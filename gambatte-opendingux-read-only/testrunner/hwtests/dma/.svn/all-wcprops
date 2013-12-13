@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma
+END
+hdma_start_scx2_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx2_2_out1.asm
+END
+hdma_start_scx5_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx5_1_out0.asm
+END
+hdma_start_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_2_out1.asm
+END
+hdma_late_disable_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_ds_2_out1.asm
+END
+dma_hiram_read_result_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_hiram_read_result_out1.asm
+END
+gdma_cycles_long_scx3_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx3_1_out3.asm
+END
+gdma_cycles_short_scx3_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx3_1_out3.asm
+END
+ff53_bits_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/ff53_bits_outFF.asm
+END
+hdma_late_disable_scx2_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx2_1_out0.asm
+END
+hdma_late_disable_scx3_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx3_2_out1.asm
+END
+hdma_cycles_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_ds_1_out3.asm
+END
+gdma_weird_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_weird_1_out3.asm
+END
+hdma_cycles_scx5_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx5_ds_1_out3.asm
+END
+hdma_late_destl_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_destl_1_out0.asm
+END
+hdma_start_ly0_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_ly0_1_out0.asm
+END
+hdma_start_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_ds_2_out1.asm
+END
+hdma_cycles_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_1_out3.asm
+END
+hdma_cycles_scx3_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx3_1_out3.asm
+END
+dma_oam_read_out7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_oam_read_out7.asm
+END
+hdma_late_length_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_length_1_out0.asm
+END
+gdma_cycles_long_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_ds_2_out0.asm
+END
+gdma_cycles_short_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_ds_2_out0.asm
+END
+hdma_disable_display_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_disable_display_1_out1.asm
+END
+hdma_late_disable_scx5_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx5_ds_1_out0.asm
+END
+hdma_start_scx5_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx5_2_out1.asm
+END
+gdma_cycles_long_scx3_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx3_2_out0.asm
+END
+gdma_cycles_short_scx3_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx3_2_out0.asm
+END
+gdma_cycles_long_scx2_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx2_1_out3.asm
+END
+gdma_cycles_short_scx2_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx2_1_out3.asm
+END
+gdma_cycles_2xshort_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_2xshort_ds_1_out3.asm
+END
+gdma_cycles_2xshort_scx5_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_2xshort_scx5_ds_1_out3.asm
+END
+ff52_bits_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/ff52_bits_outFF.asm
+END
+hdma_late_disable_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_1_out0.asm
+END
+hdma_cycles_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_ds_2_out0.asm
+END
+hdma_late_disable_scx2_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx2_2_out1.asm
+END
+gdma_weird_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_weird_2_out0.asm
+END
+hdma_late_disable_scx5_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx5_1_out0.asm
+END
+hdma_cycles_scx5_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx5_ds_2_out0.asm
+END
+dma_vram_read_out7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_vram_read_out7.asm
+END
+hdma_late_enable_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_enable_ds_1_out1.asm
+END
+hdma_late_destl_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_destl_2_out1.asm
+END
+hdma_cycles_scx3_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx3_2_out0.asm
+END
+hdma_start_ly0_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_ly0_2_out1.asm
+END
+hdma_cycles_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_2_out0.asm
+END
+hdma_cycles_scx2_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx2_1_out3.asm
+END
+hdma_late_length_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_length_2_out1.asm
+END
+hdma_disable_display_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_disable_display_2_out0.asm
+END
+gdma_cycles_long_scx5_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx5_ds_1_out3.asm
+END
+gdma_cycles_short_scx5_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx5_ds_1_out3.asm
+END
+hdma_start_scx3_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx3_1_out0.asm
+END
+gdma_cycles_short_scx2_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx2_2_out0.asm
+END
+gdma_cycles_long_scx2_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx2_2_out0.asm
+END
+gdma_cycles_2xshort_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_2xshort_ds_2_out0.asm
+END
+hdma_late_disable_scx5_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx5_ds_2_out1.asm
+END
+gdma_cycles_long_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_1_out3.asm
+END
+gdma_cycles_2xshort_scx5_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_2xshort_scx5_ds_2_out0.asm
+END
+gdma_cycles_short_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_1_out3.asm
+END
+ff51_bits_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/ff51_bits_outFF.asm
+END
+gdma_cycles_short_scx5_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx5_1_out3.asm
+END
+gdma_cycles_long_scx5_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx5_1_out3.asm
+END
+hdma_late_wrambank_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_wrambank_1_out0.asm
+END
+dma_hiram_read_out7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_hiram_read_out7.asm
+END
+hdma_late_disable_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_2_out1.asm
+END
+hdma_late_disable_scx5_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx5_2_out1.asm
+END
+dma_dst_wrap_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_dst_wrap_1_out1.asm
+END
+hdma_cycles_scx2_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx2_2_out0.asm
+END
+hdma_late_enable_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_enable_ds_2_out0.asm
+END
+hdma_start_scx5_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx5_ds_1_out0.asm
+END
+hdma_cycles_scx5_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx5_1_out3.asm
+END
+gdma_cycles_long_scx5_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx5_ds_2_out0.asm
+END
+gdma_cycles_short_scx5_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx5_ds_2_out0.asm
+END
+hdma_late_enable_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_enable_1_out1.asm
+END
+hdma_start_scx2_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx2_1_out0.asm
+END
+gdma_start_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_start_1_out1.asm
+END
+hdma_start_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_1_out0.asm
+END
+hdma_disabled_display_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_disabled_display_1_out1.asm
+END
+hdma_late_disable_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_ds_1_out0.asm
+END
+hdma_start_scx3_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx3_2_out1.asm
+END
+gdma_cycles_long_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_2_out0.asm
+END
+gdma_cycles_short_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_2_out0.asm
+END
+gdma_cycles_short_scx5_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_scx5_2_out0.asm
+END
+gdma_cycles_long_scx5_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_scx5_2_out0.asm
+END
+hdma_late_disable_scx3_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_disable_scx3_1_out0.asm
+END
+ff54_bits_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/ff54_bits_outFF.asm
+END
+hdma_late_wrambank_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_wrambank_2_out1.asm
+END
+dma_dst_wrap_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_dst_wrap_2_out0.asm
+END
+hdma_start_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_ds_1_out0.asm
+END
+hdma_cycles_scx5_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_cycles_scx5_2_out0.asm
+END
+hdma_start_scx5_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_start_scx5_ds_2_out1.asm
+END
+gdma_cycles_long_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_long_ds_1_out3.asm
+END
+gdma_cycles_short_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/gdma_cycles_short_ds_1_out3.asm
+END
+dma_src_wrap_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/dma_src_wrap_out1.asm
+END
+hdma_late_enable_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_late_enable_2_out0.asm
+END
+hdma_disabled_display_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/dma/hdma_disabled_display_2_out0.asm
+END

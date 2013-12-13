@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include
+END
+videodialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/videodialog.h
+END
+mutual.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/mutual.h
+END
+sounddialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/sounddialog.h
+END
+auto_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/auto_vector.h
+END
+pixelbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/pixelbuffer.h
+END
+blitterconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/blitterconf.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/mainwindow.h
+END
+audioengineconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/audioengineconf.h
+END
+inputdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/inputdialog.h
+END
+callqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/callqueue.h
+END
+persistcheckbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/persistcheckbox.h
+END
+mediasource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/mediasource.h
+END
+scalingmethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/scalingmethod.h
+END
+resinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/include/resinfo.h
+END

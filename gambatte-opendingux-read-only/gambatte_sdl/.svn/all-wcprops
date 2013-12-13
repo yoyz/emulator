@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5/trunk/gambatte_sdl
+END
+libmenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gambatte_sdl/libmenu.c
+END
+scaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/gambatte_sdl/scaler.h
+END
+SFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/gambatte_sdl/SFont.h
+END
+libmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gambatte_sdl/libmenu.h
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/gambatte_sdl/menu.cpp
+END
+font12px.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/gambatte_sdl/font12px.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/gambatte_sdl/SConstruct
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/gambatte_sdl/menu.h
+END
+SFont.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/gambatte_sdl/SFont.c
+END
+scaler.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/gambatte_sdl/scaler.c
+END

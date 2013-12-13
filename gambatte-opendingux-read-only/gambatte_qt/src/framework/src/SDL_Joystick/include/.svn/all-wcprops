@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include
+END
+SDL_joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include/SDL_joystick.h
+END
+SDL_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include/SDL_event.h
+END
+SDL_stdinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include/SDL_stdinc.h
+END
+SDL_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include/SDL_config.h
+END
+SDL_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/SDL_Joystick/include/SDL_error.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/gambatte_qt/src
+END
+fpsselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/gambatte_qt/src/fpsselector.h
+END
+pathselector.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/gambatte_qt/src/pathselector.h
+END
+cheatdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/gambatte_qt/src/cheatdialog.cpp
+END
+gambattesource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/gambatte_qt/src/gambattesource.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/gambatte_qt/src/src.pro
+END
+gambattemenuhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/gambatte_qt/src/gambattemenuhandler.cpp
+END
+cheatdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/gambatte_qt/src/cheatdialog.h
+END
+gambattesource.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/gambatte_qt/src/gambattesource.h
+END
+miscdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/gambatte_qt/src/miscdialog.cpp
+END
+gambattemenuhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gambatte_qt/src/gambattemenuhandler.h
+END
+palettedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gambatte_qt/src/palettedialog.cpp
+END
+miscdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/gambatte_qt/src/miscdialog.h
+END
+palettedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/gambatte_qt/src/palettedialog.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/gambatte_qt/src/main.cpp
+END
+fpsselector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/gambatte_qt/src/fpsselector.cpp
+END
+pathselector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/gambatte_qt/src/pathselector.cpp
+END

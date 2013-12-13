@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable
+END
+ff45_reenable_3_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_3_dmg08_cgb_out1.asm
+END
+late_ff41_enable_after_m2int_disable_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_after_m2int_disable_dmg08_cgb_out2.asm
+END
+lyc0_m1disable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_m1disable_2_dmg08_outE2_cgb_outE0.asm
+END
+ff41_reenable_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_2.txt
+END
+late_ff45_enable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable.txt
+END
+lyc153_late_ff45_enable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable.txt
+END
+ff45_reenable_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_1.txt
+END
+ff40_disable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff40_disable.txt
+END
+lyc_ff45_trigger_delay_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_trigger_delay_3_dmg08_cgb_out2.asm
+END
+lyc_ff45_disable2_1_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_disable2_1_dmg08_cgb_out1.asm
+END
+ff45_reenable_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_3.txt
+END
+lyc153_m1disable_ds_2_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_m1disable_ds_2_outE0.asm
+END
+lyc_ff41_enable_5_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_5_dmg08_cgb_out2.asm
+END
+lyc153_late_ff45_enable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_1_dmg08_cgb_outE2.asm
+END
+late_ff41_enable_after_m2int_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_after_m2int_dmg08_cgb_out2.asm
+END
+lyc153_late_ff45_enable_5_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_5_dmg08_cgb_outE0.asm
+END
+late_ff45_enable_after_m2int_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_after_m2int_dmg08_cgb_out2.asm
+END
+lyc_ff41_enable_ds_3_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_3_out2.asm
+END
+ff41_disable_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable_2_dmg08_out0_cgb_out2.asm
+END
+lyc153_late_ff41_enable_ds_1_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff41_enable_ds_1_outE2.asm
+END
+lyc0_ff45_disable_ds_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_disable_ds_1_outE0.asm
+END
+ff41_reenable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_2_dmg08_cgb_out2.asm
+END
+ff45_enable_weirdpoint_ds_4_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_ds_4_out3.asm
+END
+lyc153_late_ff45_enable_ds_1_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_1_outE2.asm
+END
+ff45_reenable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_2_dmg08_cgb_out2.asm
+END
+lyc153_late_ff45_enable_ds_5_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_5_outE2.asm
+END
+lyc_ff41_trigger_delay_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_trigger_delay_2_dmg08_cgb_out2.asm
+END
+late_ff41_enable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_1_dmg08_cgb_out2.asm
+END
+lyc0_late_ff45_enable_3_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_late_ff45_enable_3_dmg08_cgb_outE0.asm
+END
+lyc0_late_ff45_enable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_late_ff45_enable_1_dmg08_cgb_outE2.asm
+END
+lyc153_late_enable_m1disable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_enable_m1disable_1_dmg08_cgb_outE2.asm
+END
+lyc0_ff45_disable_1_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_disable_1_dmg08_cgb_outE0.asm
+END
+ff41_disable_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable_1_dmg08_cgb_out0.asm
+END
+lyc153_late_enable_m1disable_3_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_enable_m1disable_3_dmg08_cgb_outE0.asm
+END
+late_ff41_enable_after_m2int_disable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_after_m2int_disable.txt
+END
+lyc0_ff45_disable_3_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_disable_3_dmg08_cgb_outE2.asm
+END
+ff45_disable_1_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable_1_dmg08_cgb_out1.asm
+END
+lyc0_late_ff45_enable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_late_ff45_enable_2_dmg08_outE2_cgb_outE0.asm
+END
+lyc_ff41_enable_ds_4_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_4_out2.asm
+END
+late_ff45_enable_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_ds_1_out3.asm
+END
+lycwirq_trigger_ly00_stat50_ds_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly00_stat50_ds_1_outE0.asm
+END
+ff45_disable_2_dmg08_out1_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable_2_dmg08_out1_cgb_out3.asm
+END
+ff45_reenable_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_1_dmg08_cgb_out3.asm
+END
+lyc_ff45_trigger_delay_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_trigger_delay_1_dmg08_cgb_out0.asm
+END
+ff45_enable_weirdpoint_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_1_dmg08_cgb_out3.asm
+END
+lyc_ff41_enable_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_3_dmg08_cgb_out2.asm
+END
+lycwirq_trigger_ly94_stat50_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly94_stat50_dmg08_cgb_outE0.asm
+END
+late_ff41_enable_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_2_dmg08_out2_cgb_out0.asm
+END
+late_ff45_enable_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_ds_2_out1.asm
+END
+lyc153_late_ff41_enable_ds_2_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff41_enable_ds_2_outE0.asm
+END
+lyc153_late_ff41_enable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff41_enable_2_dmg08_outE2_cgb_outE0.asm
+END
+lyc_ff41_enable_ds_5_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_5_out2.asm
+END
+lyc153_late_ff45_enable_ds_2_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_2_outE0.asm
+END
+lyc0_ff45_disable_ds_2_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_disable_ds_2_outE2.asm
+END
+lyc0_ff45_enable_weirdpoint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_enable_weirdpoint.txt
+END
+lyc153_late_ff45_enable_4_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_4_dmg08_outE2_cgb_outE0.asm
+END
+lyc153_late_ff45_enable_ds_6_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_6_outE0.asm
+END
+late_ff45_enable_after_m2int.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_after_m2int.txt
+END
+lyc0_ff45_enable_weirdpoint_2_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_enable_weirdpoint_2_dmg08_cgb_outE2.asm
+END
+lyc0_ff45_enable_weirdpoint_4_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_enable_weirdpoint_4_dmg08_cgb_outE2.asm
+END
+late_ff45_enable_3_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_3_dmg08_cgb_out1.asm
+END
+ff45_enable_weirdpoint_4_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_4_dmg08_cgb_out3.asm
+END
+lyc_ff45_trigger_delay_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_trigger_delay_ds_1_out0.asm
+END
+lyc0_m1disable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_m1disable_1_dmg08_cgb_outE2.asm
+END
+lyc0_m1disable_3_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_m1disable_3_dmg08_cgb_outE0.asm
+END
+lyc_ff41_enable_ds_6_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_6_out2.asm
+END
+lycwirq_trigger_ly00_stat50_ds_2_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly00_stat50_ds_2_outE2.asm
+END
+lyc153_late_ff41_enable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff41_enable.txt
+END
+late_ff41_enable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable.txt
+END
+ff41_reenable_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_1.txt
+END
+ff41_reenable_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_3.txt
+END
+lyc_ff41_enable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_1_dmg08_cgb_out2.asm
+END
+ff45_reenable_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_reenable_2.txt
+END
+ff41_disable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable.txt
+END
+ff40_disable_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff40_disable_1_dmg08_cgb_out0.asm
+END
+lyc153_late_ff41_enable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff41_enable_1_dmg08_cgb_outE2.asm
+END
+ff45_disable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable.txt
+END
+early_ff45_response_2_dmg08_cgb_out7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/early_ff45_response_2_dmg08_cgb_out7.asm
+END
+lyc_ff45_trigger_delay_ds_2_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_trigger_delay_ds_2_out2.asm
+END
+lyc0_ff41_disable_ds_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff41_disable_ds_1_outE0.asm
+END
+lyc153_late_ff45_enable_ds_3_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_3_outE0.asm
+END
+lyc153_late_ff45_enable_3_dmg08_outE0_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_3_dmg08_outE0_cgb_outE2.asm
+END
+lyc0_m1disable_ds_1_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_m1disable_ds_1_outE2.asm
+END
+early_ff45_response_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/early_ff45_response_1_dmg08_cgb_out0.asm
+END
+lyc_ff41_enable_4_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_4_dmg08_cgb_out2.asm
+END
+lyc0_ff41_disable_2_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff41_disable_2_dmg08_cgb_outE2.asm
+END
+late_ff45_enable_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_1_dmg08_cgb_out3.asm
+END
+late_ff41_enable_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_ds_1_out3.asm
+END
+ff45_enable_weirdpoint_3_dmg08_out1_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_3_dmg08_out1_cgb_out3.asm
+END
+lyc_ff45_disable2_2_dmg08_out1_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_disable2_2_dmg08_out1_cgb_out3.asm
+END
+ff45_enable_weirdpoint_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_ds_1_out3.asm
+END
+lyc_ff45_disable2_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_disable2_ds_1_out1.asm
+END
+ff41_reenable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_1_dmg08_cgb_out2.asm
+END
+ff41_disable_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable_ds_1_out1.asm
+END
+lyc153_late_enable_m1disable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_enable_m1disable_2_dmg08_outE2_cgb_outE0.asm
+END
+lyc0_ff45_disable_2_dmg08_outE0_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_disable_2_dmg08_outE0_cgb_outE2.asm
+END
+ff45_disable_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable_ds_1_out1.asm
+END
+lycwirq_trigger_ly00_stat50_2_dmg08_outE0_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly00_stat50_2_dmg08_outE0_cgb_outE2.asm
+END
+lyc_ff41_trigger_delay_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_trigger_delay_1_dmg08_cgb_out0.asm
+END
+early_ff41_response_1_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/early_ff41_response_1_cgb_out0.asm
+END
+ff45_enable_weirdpoint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint.txt
+END
+lyc153_late_m1disable_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_m1disable_1_dmg08_cgb_outE2.asm
+END
+lyc153_late_m1disable_3_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_m1disable_3_dmg08_cgb_outE0.asm
+END
+lyc153_m1disable_ds_1_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_m1disable_ds_1_outE2.asm
+END
+lyc_ff45_disable2_3_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_disable2_3_dmg08_cgb_out3.asm
+END
+lyc_ff45_trigger_delay_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_trigger_delay_2_dmg08_out0_cgb_out2.asm
+END
+late_ff41_enable_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_ds_2_out1.asm
+END
+lyc153_late_m1disable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_m1disable_2_dmg08_outE2_cgb_outE0.asm
+END
+lyc_ff41_enable_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_1_out2.asm
+END
+ff45_enable_weirdpoint_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_ds_2_out1.asm
+END
+lyc0_ff41_disable_ds_2_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff41_disable_ds_2_outE2.asm
+END
+lyc_ff45_disable2_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff45_disable2_ds_2_out3.asm
+END
+ff41_disable_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable_ds_2_out3.asm
+END
+lyc153_late_ff45_enable_2_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_2_dmg08_outE2_cgb_outE0.asm
+END
+late_ff41_enable_after_m2int.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_after_m2int.txt
+END
+lyc153_late_ff45_enable_ds_4_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc153_late_ff45_enable_ds_4_outE2.asm
+END
+ff45_disable_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable_ds_2_out3.asm
+END
+lyc0_m1disable_ds_2_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_m1disable_ds_2_outE0.asm
+END
+lyc0_ff45_enable_weirdpoint_1_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_enable_weirdpoint_1_dmg08_cgb_outE2.asm
+END
+late_ff41_enable_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff41_enable_3_dmg08_cgb_out0.asm
+END
+lyc0_ff45_enable_weirdpoint_3_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff45_enable_weirdpoint_3_dmg08_cgb_outE2.asm
+END
+lyc_ff41_enable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_2_dmg08_cgb_out2.asm
+END
+early_ff41_response_2_cgb_out7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/early_ff41_response_2_cgb_out7.asm
+END
+ff40_disable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff40_disable_2_dmg08_cgb_out2.asm
+END
+lycwirq_trigger_ly00_stat50_1_dmg08_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly00_stat50_1_dmg08_cgb_outE0.asm
+END
+ff41_disable_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_disable_3_dmg08_cgb_out2.asm
+END
+lycwirq_trigger_ly00_stat50_3_dmg08_cgb_outE2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lycwirq_trigger_ly00_stat50_3_dmg08_cgb_outE2.asm
+END
+ff45_enable_weirdpoint_2_dmg08_out3_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_2_dmg08_out3_cgb_out1.asm
+END
+late_ff45_enable_2_dmg08_out3_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/late_ff45_enable_2_dmg08_out3_cgb_out1.asm
+END
+lyc_ff41_enable_ds_2_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc_ff41_enable_ds_2_out2.asm
+END
+ff45_disable_3_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_disable_3_dmg08_cgb_out3.asm
+END
+lyc0_ff41_disable_1_dmg08_outE2_cgb_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/lyc0_ff41_disable_1_dmg08_outE2_cgb_outE0.asm
+END
+ff45_enable_weirdpoint_ds_3_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff45_enable_weirdpoint_ds_3_out1.asm
+END
+ff41_reenable_3_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/lycEnable/ff41_reenable_3_dmg08_cgb_out1.asm
+END

@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable
+END
+lycdisable_ff45_scx2_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx2_3_dmg08_cgb_out0.asm
+END
+disable_scx2_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx2_1_dmg08_cgb_out0.asm
+END
+m0_enable_ds_4_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_4_out2.asm
+END
+late_enable_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable_2_dmg08_out2_cgb_out0.asm
+END
+enable_after_lyc_prior_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_prior_1.txt
+END
+m0_enable_ds_8_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_8_out2.asm
+END
+lycdisable_ff41_scx1_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx1_ds_1_out2.asm
+END
+disable_scx4_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx4_3_dmg08_cgb_out2.asm
+END
+enable_after_lyc_prior_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_prior_2.txt
+END
+late_enable_ds_2_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable_ds_2_out1.asm
+END
+lycdisable_ff45_scx1_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx1_ds_1_out2.asm
+END
+m0_trigger_delay_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_trigger_delay_1_dmg08_cgb_out0.asm
+END
+reenable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_1_dmg08_cgb_out2.asm
+END
+enable_twice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_twice.txt
+END
+enable_after_m2_during_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_during_2_dmg08_cgb_out2.asm
+END
+disable_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_ds_1_out1.asm
+END
+enable_twice_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_twice_1_dmg08_cgb_out0.asm
+END
+enable_after_m2_prior_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_prior_2_dmg08_cgb_out2.asm
+END
+m0_enable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_1_dmg08_cgb_out2.asm
+END
+enable_after_lyc_during_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_during_2_dmg08_cgb_out0.asm
+END
+m0_enable_5_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_5_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_scx1_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx1_1_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_scx2_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx2_2_dmg08_cgb_out0.asm
+END
+enable_after_lyc_prior_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_prior_1_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_1_dmg08_cgb_out2.asm
+END
+enable_before_lycint_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_before_lycint_2_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_scx3_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx3_3_dmg08_cgb_out0.asm
+END
+lycdisable_ff45_scx1_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx1_1_dmg08_cgb_out2.asm
+END
+m0_enable_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_1_out2.asm
+END
+lycdisable_ff45_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_1_dmg08_cgb_out2.asm
+END
+lycdisable_ff45_scx3_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx3_3_dmg08_cgb_out0.asm
+END
+disable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable.txt
+END
+disable_scx3_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx3_1_dmg08_cgb_out0.asm
+END
+lycdisable_ff45_ds_2_xout0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_ds_2_xout0.asm
+END
+m0_enable_ds_5_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_5_out2.asm
+END
+lycdisable_ff41_scx3_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx3_2_dmg08_out2_cgb_out0.asm
+END
+lycdisable_ff41_scx1_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx1_ds_2_out0.asm
+END
+lycdisable_ff45_scx1_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx1_2_dmg08_out2_cgb_out0.asm
+END
+disable_scx7_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx7_1_dmg08_cgb_out0.asm
+END
+disable_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_3_dmg08_cgb_out2.asm
+END
+lycdisable_ff45_scx3_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx3_2_dmg08_out2_cgb_out0.asm
+END
+lycdisable_ff45_scx1_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx1_ds_2_out0.asm
+END
+enable_after_m2_during.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_during.txt
+END
+disable_scx3_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx3_2_dmg08_out0_cgb_out2.asm
+END
+enable_after_m2_during_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_during_1_dmg08_cgb_out2.asm
+END
+disable_scx7_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx7_2_dmg08_out0_cgb_out2.asm
+END
+enable_after_m2_prior_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_prior_1_dmg08_cgb_out2.asm
+END
+disable_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_ds_2_out3.asm
+END
+enable_after_lyc_during_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_during_1_dmg08_cgb_out0.asm
+END
+m0_enable_4_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_4_dmg08_cgb_out2.asm
+END
+enable_before_lycint_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_before_lycint_1_dmg08_cgb_out0.asm
+END
+lycdisable_ff41_scx2_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx2_1_dmg08_cgb_out2.asm
+END
+late_enable_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable_1_dmg08_cgb_out2.asm
+END
+lycdisable_ff45_scx2_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx2_1_dmg08_cgb_out2.asm
+END
+m0_enable_ds_2_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_2_out2.asm
+END
+lycdisable_ff45_4_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_4_dmg08_cgb_out0.asm
+END
+disable_scx1_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx1_2_dmg08_cgb_out2.asm
+END
+enable_after_lyc_during_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_during_1.txt
+END
+disable_scx4_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx4_1_dmg08_cgb_out0.asm
+END
+m0_enable_ds_6_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_6_out2.asm
+END
+enable_after_lyc_during_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_during_2.txt
+END
+disable_scx5_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx5_2_dmg08_cgb_out2.asm
+END
+enable_before_lycint_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_before_lycint_1.txt
+END
+lycdisable_ff41_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_ds_1_out2.asm
+END
+enable_before_lycint_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_before_lycint_2.txt
+END
+lycdisable_ff45_ds_1_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_ds_1_out2.asm
+END
+enable_after_m2_prior.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_m2_prior.txt
+END
+reenable_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_3_dmg08_cgb_out0.asm
+END
+disable_scx5_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx5_ds_1_out1.asm
+END
+m0_enable_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_3_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_scx3_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx3_1_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_3_dmg08_cgb_out0.asm
+END
+lycdisable_ff45_scx1_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx1_3_dmg08_cgb_out0.asm
+END
+lycdisable_ff45_scx3_1_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx3_1_dmg08_cgb_out2.asm
+END
+disable_scx1_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx1_1_dmg08_cgb_out0.asm
+END
+m0_enable_ds_3_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_3_out2.asm
+END
+disable_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_1_dmg08_cgb_out0.asm
+END
+lycdisable_ff41_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_2_dmg08_out2_cgb_out0.asm
+END
+disable_scx2_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx2_2_dmg08_cgb_out2.asm
+END
+disable_scx5_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx5_1_dmg08_cgb_out0.asm
+END
+m0_enable_ds_7_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_ds_7_out2.asm
+END
+disable_scx3_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx3_3_dmg08_cgb_out2.asm
+END
+lycdisable_ff41_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_ds_2_out0.asm
+END
+lycdisable_ff45_scx2_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_scx2_2_dmg08_out2_cgb_out0.asm
+END
+lycdisable_ff45_2_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_2_dmg08_out2_cgb_out0.asm
+END
+lycdisable_ff45_3_dmg08_out2_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff45_3_dmg08_out2_cgb_out0.asm
+END
+late_enable_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable_ds_1_out3.asm
+END
+disable_scx7_3_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx7_3_dmg08_cgb_out2.asm
+END
+disable_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_2_dmg08_out0_cgb_out2.asm
+END
+disable_scx4_2_dmg08_out0_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx4_2_dmg08_out0_cgb_out2.asm
+END
+reenable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_2_dmg08_cgb_out2.asm
+END
+m0_trigger_delay_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_trigger_delay_2_dmg08_cgb_out2.asm
+END
+disable_scx5_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/disable_scx5_ds_2_out3.asm
+END
+m0_enable_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/m0_enable_2_dmg08_cgb_out2.asm
+END
+late_enable.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable.txt
+END
+lycdisable_ff41_scx1_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/lycdisable_ff41_scx1_2_dmg08_cgb_out0.asm
+END
+enable_after_lyc_prior_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/enable_after_lyc_prior_2_dmg08_cgb_out0.asm
+END
+reenable_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_1.txt
+END
+reenable_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_2.txt
+END
+reenable_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/reenable_3.txt
+END
+late_enable_3_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/testrunner/hwtests/m0enable/late_enable_3_dmg08_cgb_out0.asm
+END

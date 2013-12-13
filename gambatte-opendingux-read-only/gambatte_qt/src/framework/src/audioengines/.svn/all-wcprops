@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines
+END
+wasapiinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/wasapiinc.h
+END
+customdevconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/customdevconf.h
+END
+aoengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/aoengine.cpp
+END
+nullaudioengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/nullaudioengine.h
+END
+aoengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/aoengine.h
+END
+ossengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/ossengine.cpp
+END
+ossengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/ossengine.h
+END
+coreaudioengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/coreaudioengine.cpp
+END
+openalengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/openalengine.cpp
+END
+coreaudioengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/coreaudioengine.h
+END
+alsaengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/alsaengine.cpp
+END
+directsoundengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/directsoundengine.cpp
+END
+openalengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/openalengine.h
+END
+wasapiengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/wasapiengine.cpp
+END
+alsaengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/alsaengine.h
+END
+directsoundengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/directsoundengine.h
+END
+wasapiengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/wasapiengine.h
+END
+customdevconf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/audioengines/customdevconf.cpp
+END

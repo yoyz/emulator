@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3
+END
+postread_scx5_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx5_ds_2_out0.asm
+END
+postread_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_ds_1_out3.asm
+END
+preread_ds_2_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/preread_ds_2_out3.asm
+END
+postread_scx5_ds_1_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx5_ds_1_out3.asm
+END
+10spritesprline_postread_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/10spritesprline_postread_2_dmg08_cgb_out0.asm
+END
+10spritesprline_postread_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/10spritesprline_postread_1_dmg08_cgb_out3.asm
+END
+vramw_m3start_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/vramw_m3start_2_dmg08_cgb_out0.asm
+END
+vramw_m3start_1_dmg08_cgb_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/vramw_m3start_1_dmg08_cgb_out1.asm
+END
+prewrite_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/prewrite_ds_2_out0.asm
+END
+prewrite_ds_1_out1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/prewrite_ds_1_out1.asm
+END
+postread_scx2_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx2_2_dmg08_cgb_out0.asm
+END
+postread_scx3_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx3_2_dmg08_cgb_out0.asm
+END
+postread_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_2_dmg08_cgb_out0.asm
+END
+postread_scx2_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx2_1_dmg08_cgb_out3.asm
+END
+postread_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_1_dmg08_cgb_out3.asm
+END
+postread_scx3_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx3_1_dmg08_cgb_out3.asm
+END
+postread_scx5_2_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx5_2_dmg08_cgb_out0.asm
+END
+postread_scx5_1_dmg08_cgb_out3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_scx5_1_dmg08_cgb_out3.asm
+END
+postread_ds_2_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/postread_ds_2_out0.asm
+END
+preread_ds_1_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/testrunner/hwtests/vram_m3/preread_ds_1_out0.asm
+END

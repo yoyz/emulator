@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/common/videolink/vfilters
+END
+catrom2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/catrom2x.cpp
+END
+maxsthq2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/maxsthq2x.cpp
+END
+maxsthq3x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/maxsthq3x.cpp
+END
+catrom3x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/catrom3x.cpp
+END
+kreed2xsai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/kreed2xsai.cpp
+END
+maxsthq2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/maxsthq2x.h
+END
+catrom2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/catrom2x.h
+END
+catrom3x.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/catrom3x.h
+END
+maxsthq3x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/maxsthq3x.h
+END
+kreed2xsai.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/common/videolink/vfilters/kreed2xsai.h
+END

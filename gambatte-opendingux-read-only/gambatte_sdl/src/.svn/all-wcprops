@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/gambatte_sdl/src
+END
+str_to_sdlkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/str_to_sdlkey.h
+END
+blitterwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/blitterwrapper.h
+END
+audiodata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/audiodata.cpp
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/parser.cpp
+END
+syncfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/syncfunc.h
+END
+sdlblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/sdlblitter.h
+END
+audiodata.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/audiodata.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/parser.h
+END
+str_to_sdlkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/str_to_sdlkey.cpp
+END
+blitterwrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/blitterwrapper.cpp
+END
+gambatte_sdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/gambatte_sdl.cpp
+END
+scalebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/scalebuffer.h
+END
+syncfunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/gambatte_sdl/src/syncfunc.cpp
+END
+sdlblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/gambatte_sdl/src/sdlblitter.cpp
+END

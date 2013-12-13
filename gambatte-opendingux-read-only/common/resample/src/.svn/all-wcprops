@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/common/resample/src
+END
+upsampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/common/resample/src/upsampler.h
+END
+i0.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/common/resample/src/i0.h
+END
+rectsinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/common/resample/src/rectsinc.h
+END
+rshift16_round.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/common/resample/src/rshift16_round.h
+END
+u48div.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/common/resample/src/u48div.cpp
+END
+cic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/common/resample/src/cic2.h
+END
+cic3.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/common/resample/src/cic3.h
+END
+cic4.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/common/resample/src/cic4.h
+END
+u48div.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/common/resample/src/u48div.h
+END
+blackmansinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/common/resample/src/blackmansinc.h
+END
+makesinckernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/common/resample/src/makesinckernel.cpp
+END
+chainresampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/common/resample/src/chainresampler.cpp
+END
+makesinckernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/common/resample/src/makesinckernel.h
+END
+hammingsinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/common/resample/src/hammingsinc.h
+END
+linint.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/common/resample/src/linint.h
+END
+chainresampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/common/resample/src/chainresampler.h
+END
+kaiser50sinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/common/resample/src/kaiser50sinc.h
+END
+convoluter.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/common/resample/src/convoluter.h
+END
+resamplerinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/common/resample/src/resamplerinfo.cpp
+END
+kaiser70sinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/common/resample/src/kaiser70sinc.h
+END
+i0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/common/resample/src/i0.cpp
+END
+subresampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/common/resample/src/subresampler.h
+END

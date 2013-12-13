@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/libgambatte/src
+END
+statesaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/libgambatte/src/statesaver.cpp
+END
+state_osd_elements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/libgambatte/src/state_osd_elements.cpp
+END
+interrupter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/libgambatte/src/interrupter.cpp
+END
+minkeeper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/libgambatte/src/minkeeper.h
+END
+gambatte.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/libgambatte/src/gambatte.cpp
+END
+insertion_sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/libgambatte/src/insertion_sort.h
+END
+state_osd_elements.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/libgambatte/src/state_osd_elements.h
+END
+statesaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/libgambatte/src/statesaver.h
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/libgambatte/src/cpu.cpp
+END
+interrupter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/libgambatte/src/interrupter.h
+END
+sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/libgambatte/src/sound.cpp
+END
+tima.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/libgambatte/src/tima.cpp
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/libgambatte/src/cpu.h
+END
+interruptrequester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/libgambatte/src/interruptrequester.cpp
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/libgambatte/src/sound.h
+END
+tima.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/libgambatte/src/tima.h
+END
+interruptrequester.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/libgambatte/src/interruptrequester.h
+END
+bitmap_font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/libgambatte/src/bitmap_font.cpp
+END
+counterdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/libgambatte/src/counterdef.h
+END
+osd_element.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/libgambatte/src/osd_element.h
+END
+initstate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/libgambatte/src/initstate.cpp
+END
+savestate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/libgambatte/src/savestate.h
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/libgambatte/src/video.cpp
+END
+bitmap_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/libgambatte/src/bitmap_font.h
+END
+memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/libgambatte/src/memory.cpp
+END
+initstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/libgambatte/src/initstate.h
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/libgambatte/src/video.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/libgambatte/src/memory.h
+END

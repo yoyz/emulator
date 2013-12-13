@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets
+END
+direct3dblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/direct3dblitter.h
+END
+qpainterblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/qpainterblitter.h
+END
+directdrawblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/directdrawblitter.cpp
+END
+qglblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/qglblitter.h
+END
+x11blitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/x11blitter.cpp
+END
+directdrawblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/directdrawblitter.h
+END
+xvblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/xvblitter.cpp
+END
+x11blitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/x11blitter.h
+END
+direct3dblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/direct3dblitter.cpp
+END
+xvblitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/xvblitter.h
+END
+qpainterblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/qpainterblitter.cpp
+END
+qglblitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/gambatte_qt/src/framework/src/blitterwidgets/qglblitter.cpp
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima
+END
+tc01_1stopstart_offset1_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset1_ff_tma_3_outF0.asm
+END
+tc00_fe_ff_1_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_fe_ff_1_outFE.asm
+END
+tc00_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_irq_1_outE0.asm
+END
+tc01_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_irq_1_outE0.asm
+END
+tc01_fe_ff_2_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_fe_ff_2_outFF.asm
+END
+tc00_start_2_outF1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_start_2_outF1.asm
+END
+tc01_1stopstart_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_irq_1_outE0.asm
+END
+tc01_late_tima_tma_2_outF1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_tma_2_outF1.asm
+END
+tc00_1stopstart_offset2_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset2_ff_tma_2_out00.asm
+END
+tc00_late_stop_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_irq_1_outE0.asm
+END
+tc00_late_stop_of_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_of_1_outFF.asm
+END
+tc01_late_stop_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_irq_2_outE4.asm
+END
+tc01_late_tima_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_irq_1_outE0.asm
+END
+tc01_late_tima_tma_1_out11.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_tma_1_out11.asm
+END
+tc01_1stopstart_offset1_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset1_ff_tma_1_outFF.asm
+END
+tc01_late_tima_tma_3_out11.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_tma_3_out11.asm
+END
+tc01_tma_next_1_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_tma_next_1_outF0.asm
+END
+tc00_1stopstart_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_ff_tma_1_outFF.asm
+END
+tc01_1stopstart_offset1_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset1_irq_1_outE0.asm
+END
+tc00_1stopstart_ff_tma_3_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_ff_tma_3_outFE.asm
+END
+tc01_1stopstart_offset2_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset2_irq_1_outE0.asm
+END
+tc01_1stopstart_offset3_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset3_irq_1_outE0.asm
+END
+tc00_1stopstart_offset1_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset1_ff_tma_2_out00.asm
+END
+tc01_late_stop_of_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_of_1_outFF.asm
+END
+tc01_late_tima_inc_2_out10.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_inc_2_out10.asm
+END
+tc01_1stopstart_offset3_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset3_ff_tma_2_out00.asm
+END
+tc01_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_ff_tma_2_out00.asm
+END
+tc00_late_stop_inc_1_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_inc_1_outFE.asm
+END
+tc01_late_stop_inc_2_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_inc_2_outFE.asm
+END
+tc01_1stopstart_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_ff_tma_2_out00.asm
+END
+tc00_1stopstart_offset2_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset2_ff_tma_1_outFF.asm
+END
+tc00_1stopstart_offset2_ff_tma_3_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset2_ff_tma_3_outFE.asm
+END
+tc01_fe_ff_1_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_fe_ff_1_outFE.asm
+END
+tc01_1stopstart_offset3_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset3_ff_tma_3_outF0.asm
+END
+tc00_fe_ff_2_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_fe_ff_2_outFF.asm
+END
+tc00_start_1_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_start_1_outF0.asm
+END
+tc00_tc01_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_tc01_ff_tma_2_out00.asm
+END
+tc01_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_ff_tma_3_outF0.asm
+END
+tc00_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_irq_2_outE4.asm
+END
+tc01_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_irq_2_outE4.asm
+END
+tc01_1stopstart_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_ff_tma_3_outF0.asm
+END
+tc01_1stopstart_offset2_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset2_ff_tma_2_out00.asm
+END
+tc00_late_stop_of_2_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_of_2_outFE.asm
+END
+tc01_1stopstart_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_irq_2_outE4.asm
+END
+tc01_late_stop_irq_1_outE0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_irq_1_outE0.asm
+END
+tc00_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_ff_tma_2_out00.asm
+END
+tc00_late_stop_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_irq_2_outE4.asm
+END
+tc00_tc01_late_tc00_of_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_tc01_late_tc00_of_1_outFF.asm
+END
+tc00_1stopstart_offset1_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset1_ff_tma_1_outFF.asm
+END
+tc00_1stopstart_offset1_ff_tma_3_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_offset1_ff_tma_3_outFE.asm
+END
+tc01_late_tima_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_irq_2_outE4.asm
+END
+tc01_late_stop_of_2_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_of_2_outF0.asm
+END
+tc01_1stopstart_offset3_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset3_ff_tma_1_outFF.asm
+END
+tc01_tma_next_2_outF1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_tma_next_2_outF1.asm
+END
+tc01_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_ff_tma_1_outFF.asm
+END
+tc00_tc01_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_tc01_ff_tma_3_outF0.asm
+END
+tc01_1stopstart_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_ff_tma_1_outFF.asm
+END
+tc01_late_tma_2_outF1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tma_2_outF1.asm
+END
+tc01_1stopstart_offset1_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset1_irq_2_outE4.asm
+END
+tc01_1stopstart_offset2_ff_tma_3_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset2_ff_tma_3_outF0.asm
+END
+tc01_1stopstart_offset2_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset2_irq_2_outE4.asm
+END
+tc01_1stopstart_offset3_irq_2_outE4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset3_irq_2_outE4.asm
+END
+tc01_late_tma_1_out11.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tma_1_out11.asm
+END
+tc01_1stopstart_offset1_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset1_ff_tma_2_out00.asm
+END
+tc01_late_tima_inc_1_out11.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_tima_inc_1_out11.asm
+END
+tc01_late_stop_inc_1_outFD.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_late_stop_inc_1_outFD.asm
+END
+tc00_tc01_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_tc01_ff_tma_1_outFF.asm
+END
+tc00_late_stop_inc_2_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_late_stop_inc_2_outFF.asm
+END
+tc00_1stopstart_ff_tma_2_out00.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_1stopstart_ff_tma_2_out00.asm
+END
+tc01_1stopstart_offset2_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc01_1stopstart_offset2_ff_tma_1_outFF.asm
+END
+tc00_ff_tma_1_outFF.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_ff_tma_1_outFF.asm
+END
+tc00_ff_tma_3_outFE.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_ff_tma_3_outFE.asm
+END
+tc00_tc01_late_tc00_of_2_outF0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/testrunner/hwtests/tima/tc00_tc01_late_tc00_of_2_outF0.asm
+END

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt
+END
+lycint0_m0stat_ds_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint0_m0stat_ds_1.asm
+END
+lycint0_m0stat_ds_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint0_m0stat_ds_2.asm
+END
+m2int_m2irq_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2int_m2irq_1.asm
+END
+m2irq_m2irq_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_m2irq_1.asm
+END
+m2int_m2irq_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2int_m2irq_2.asm
+END
+noime_noie_nolcdirq_readstat_dmg08_cgb_blank.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/noime_noie_nolcdirq_readstat_dmg08_cgb_blank.asm
+END
+m2irq_m2irq_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_m2irq_2.asm
+END
+noime_ifandie_m2int_m0stat_1_dmg08_cgb_out0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/noime_ifandie_m2int_m0stat_1_dmg08_cgb_out0.asm
+END
+m2irq_scy_during_m3_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_scy_during_m3_1.asm
+END
+m2irq_scy_during_m3_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_scy_during_m3_2.asm
+END
+m2irq_scy_during_m3_3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_scy_during_m3_3.asm
+END
+m2irq_scy_during_m3_4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_scy_during_m3_4.asm
+END
+lycint_dmgpalette_during_m3_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_1.png
+END
+m2irq_scy_during_m3_5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_scy_during_m3_5.asm
+END
+lycint_dmgpalette_during_m3_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_2.png
+END
+m2irq_m2stat_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_m2stat_1.asm
+END
+m2irq_m2stat_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_m2stat_2.asm
+END
+lycint_lycirq_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_lycirq_1.asm
+END
+lycint_dmgpalette_during_m3_3.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_3.png
+END
+lycint_dmgpalette_during_m3_4.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_4.png
+END
+lycint_lycirq_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_lycirq_2.asm
+END
+lycirq_scy_during_m3_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_1.asm
+END
+lycirq_scy_during_m3_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_2.asm
+END
+lycirq_scy_during_m3_3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_3.asm
+END
+lycint_m0stat_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_m0stat_1.asm
+END
+lycint_m0stat_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_m0stat_2.asm
+END
+lycirq_scy_during_m3_4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_4.asm
+END
+lycirq_scy_during_m3_5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_5.asm
+END
+ime_noie_nolcdirq_readstat_dmg08_cgb_blank.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/ime_noie_nolcdirq_readstat_dmg08_cgb_blank.asm
+END
+halt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/halt.txt
+END
+noime_ifandie_m2int_m0stat_2_dmg08_cgb_out2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/noime_ifandie_m2int_m0stat_2_dmg08_cgb_out2.asm
+END
+lycirq98_m0stat_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq98_m0stat_1.asm
+END
+lycirq98_m0stat_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq98_m0stat_2.asm
+END
+lycirq_scy_during_m3_ds_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_1.asm
+END
+lycirq_scy_during_m3_ds_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_2.asm
+END
+lycint_dmgpalette_during_m3_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_1.asm
+END
+lycirq_scy_during_m3_ds_3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_3.asm
+END
+lycint_dmgpalette_during_m3_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_2.asm
+END
+lycirq_m0stat_ds_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_m0stat_ds_1.asm
+END
+lycint_dmgpalette_during_m3_3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_3.asm
+END
+lycirq_scy_during_m3_ds_4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_4.asm
+END
+lycint_dmgpalette_during_m3_4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_4.asm
+END
+lycirq_scy_during_m3_ds_5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_5.asm
+END
+lycirq_m0stat_ds_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_m0stat_ds_2.asm
+END
+m2int_m2stat_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2int_m2stat_1.asm
+END
+lycirq_scy_during_m3_ds_6.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_6.asm
+END
+lycirq_scy_during_m3_ds_7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_scy_during_m3_ds_7.asm
+END
+m2int_m2stat_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2int_m2stat_2.asm
+END
+lycirq_lycirq_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_lycirq_1.asm
+END
+lycirq_lycirq_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_lycirq_2.asm
+END
+lycirq_m0stat_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_m0stat_1.asm
+END
+lycint_dmgpalette_during_m3_1_gba.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_1_gba.png
+END
+lycirq_m0stat_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycirq_m0stat_2.asm
+END
+lycint_dmgpalette_during_m3_2_gba.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_2_gba.png
+END
+lycint_dmgpalette_during_m3_3_gba.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_3_gba.png
+END
+m2irq_ly_1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_ly_1.asm
+END
+m2irq_ly_2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/m2irq_ly_2.asm
+END
+lycint_dmgpalette_during_m3_4_gba.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/testrunner/hwtests/halt/lycint_dmgpalette_during_m3_4_gba.png
+END
