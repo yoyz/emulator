@@ -1,0 +1,30 @@
+#!/bin/sh
+cd /boot/local/emulators/gambatte/
+#./gambatte_sdl -i return escape lalt lshift up down left right -r 22050 --resampler 0 -q "$1"
+#./gambatte_sdl_patchby_yoyz     -i return escape lalt lshift up down left right -r 22050 --resampler 0 -q "$1" > /tmp/toto
+#./gambatte_sdl_patchby_yoyz    -i return escape lalt lshift up down left right  -r 22050 --resampler 0 "$1" | tee /tmp/toto
+#./gambatte_sdl_patchby_yoyz    -i return escape lalt lshift up down left right  "$1" 
+#./gambatte_sdl_patchby_yoyz   -i return escape lalt lshift up down left right  -r 22050 --resampler 0 "$1" 
+#./gambatte_sdl_patchby_yoyz   -i return escape lalt lshift up down left right  -r 22050 --resampler 0 "$1" 
+#./gambatte_sdl_patchby_yoyz   -i lctrl lshift lalt space up down left right  -r 22050 --resampler 0 "$1" 
+./gambatte_sdl_patchby_yoyz   -i space lshift lctrl lalt up down left right  -r 22050 --resampler 0 "$1" 
+
+# -i, --input KEYS              Use the 8 given input KEYS for respectively
+#                                    START SELECT A B UP DOWN LEFT RIGHT
+#
+#
+# D-pad up      KEY_UP
+# D-pad down    KEY_DOWN
+# D-pad left    KEY_LEFT
+# D-pad right   KEY_RIGHT
+# A button      KEY_LEFTCTRL
+# B button      KEY_LEFTALT
+# X button      KEY_SPACE
+# Y button      KEY_LEFTSHIFT
+# Left shoulder KEY_TAB
+# Right shoulder        KEY_BACKSPACE
+# START button  KEY_ENTER
+# SELECT button KEY_ESC
+# Power slider  KEY_POWER
+# Power hold    KEY_PAUSE
+                                    

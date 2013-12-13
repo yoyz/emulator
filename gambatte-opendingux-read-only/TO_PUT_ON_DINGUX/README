@@ -1,0 +1,9 @@
+This is a gambatte with a different key mapping.
+SELECT => Y
+START  => X
+
+Source code is included here and came from : 
+https://code.google.com/p/gambatte-opendingux/source/checkout
+svn checkout http://gambatte-opendingux.googlecode.com/svn/trunk/ gambatte-opendingux-read-only
+
+Johann Peyrard
